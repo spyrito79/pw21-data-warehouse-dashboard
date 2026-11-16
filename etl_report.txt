@@ -1,0 +1,13 @@
+[extract] righe lette: clienti=406, fornitori=300, operatori=350, richieste=610
+[clienti] date normalizzate in formato ISO; non interpretabili: 0
+[clienti] duplicati rimossi: 6
+[fornitori] duplicati rimossi: 0
+[operatori] duplicati rimossi: 0
+[richieste] duplicati rimossi: 9
+[richieste] scartate per chiave esterna inesistente: 1
+[richieste] completate senza tempo di erogazione (lasciate NULL, escluse dalla media): 4
+[load] dim_cliente: 400 righe
+[load] dim_fornitore: 300 righe
+[load] dim_operatore: 350 righe
+[load] dim_tempo: 365 righe
+[load] fact_richieste: 600 righe

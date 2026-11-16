@@ -1,0 +1,301 @@
+fornitore_id,nome,categoria_servizio,zona
+F0001,Splendor Express 001,Pulizie,Centro
+F0002,Byte Express 002,Assistenza IT,Est
+F0003,Casa Solutions 003,Pulizie,CENTRO
+F0004,Idro Team 004,Idraulica,Centro
+F0005,Tech Solutions 005,Assistenza IT,Sud
+F0006,Tubi Team 006,Idraulica,Centro
+F0007,Casa Express 007,Pulizie,Centro
+F0008,Splendor Team 008,Pulizie,Sud
+F0009,Flora Express 009,Giardinaggio,Centro
+F0010,Net Pro 010,Assistenza IT,Est
+F0011,Elettro Service 011,Elettricista,Sud
+F0012,Splendor Express 012,Pulizie,Centro
+F0013,Orto Pro 013,Giardinaggio,Est
+F0014,Tubi Solutions 014,Idraulica,Sud
+F0015,Aqua Service 015,Idraulica,Est
+F0016,Casa Pro 016,Pulizie,Sud
+F0017,Mover Service 017,Trasloco,Est
+F0018,Tech Solutions 018,Assistenza IT,Ovest
+F0019,Trasporti Group 019,Trasloco,CENTRO
+F0020,Splendor Group 020,Pulizie,Ovest
+F0021,Orto Service 021,Giardinaggio,Ovest
+F0022,Lumen Team 022,Elettricista,Centro
+F0023,Flora Service 023,Giardinaggio,Centro
+F0024,Verde Express 024,Giardinaggio,Nord
+F0025,Volt Service 025,Elettricista,Sud
+F0026,Aqua Team 026,Idraulica,Est
+F0027,Elettro Solutions 027,Elettricista,Ovest
+F0028,Volt Service 028,Elettricista,Ovest
+F0029,Casa Pro 029,Pulizie,Est
+F0030,Pulito Express 030,Pulizie,Ovest
+F0031,Casa Service 031,Pulizie,Centro
+F0032,Splendor Group 032,Pulizie,Est
+F0033,Aqua Solutions 033,Idraulica,Sud
+F0034,Net Team 034,Assistenza IT,Est
+F0035,Elettro Express 035,Elettricista,Nord
+F0036,Splendor Solutions 036,Pulizie,Sud
+F0037,Verde Group 037,Giardinaggio,Sud
+F0038,Tubi Group 038,Idraulica,Centro
+F0039,Net Express 039,Assistenza IT,Centro
+F0040,Byte Solutions 040,Assistenza IT,Centro
+F0041,Volt Solutions 041,Elettricista,Nord
+F0042,Orto Group 042,Giardinaggio,Centro
+F0043,Scatola Group 043,Trasloco,Nord
+F0044,Verde Solutions 044,Giardinaggio,Sud
+F0045,Aqua Team 045,Idraulica,Centro
+F0046,Idro Solutions 046,Idraulica,Centro
+F0047,Casa Team 047,Pulizie,Centro
+F0048,Elettro Team 048,Elettricista,Centro
+F0049,Volt Express 049,Elettricista,Centro
+F0050,Idro Group 050,Idraulica,Ovest
+F0051,Net Team 051,Assistenza IT,Nord
+F0052,Splendor Solutions 052,Pulizie,Nord
+F0053,Casa Group 053,Pulizie,Sud
+F0054,Casa Team 054,Pulizie,Nord
+F0055,Volt Solutions 055,Elettricista,Centro
+F0056,Casa Pro 056,Pulizie,Ovest
+F0057,Trasporti Group 057,Trasloco,Sud
+F0058,Pulito Service 058,Pulizie,Centro
+F0059,Elettro Service 059,Elettricista,Nord
+F0060,Byte Express 060,Assistenza IT,Est
+F0061,Scatola Group 061,Trasloco,Centro
+F0062,Casa Group 062,Pulizie,Nord
+F0063,Pulito Express 063,Pulizie,Ovest
+F0064,Tech Service 064,Assistenza IT,Ovest
+F0065,Elettro Pro 065,Elettricista,Centro
+F0066,Tubi Team 066,Idraulica,Est
+F0067,Tech Service 067,Assistenza IT,Sud
+F0068,Volt Express 068,Elettricista,Nord
+F0069,Lumen Solutions 069,Elettricista,Centro
+F0070,Aqua Pro 070,Idraulica,Centro
+F0071,Verde Service 071,Giardinaggio,Centro
+F0072,Casa Pro 072,Pulizie,Centro
+F0073,Volt Solutions 073,Elettricista,Nord
+F0074,Byte Pro 074,Assistenza IT,Est
+F0075,Verde Group 075,Giardinaggio,Centro
+F0076,Aqua Pro 076,Idraulica,Est
+F0077,Aqua Service 077,Idraulica,Nord
+F0078,Pulito Group 078,Pulizie,Nord
+F0079,Splendor Solutions 079,Pulizie,Est
+F0080,Pulito Solutions 080,Pulizie,Nord
+F0081,Orto Solutions 081,Giardinaggio,Sud
+F0082,Mover Service 082,Trasloco,Centro
+F0083,Tech Group 083,Assistenza IT,Nord
+F0084,Flora Service 084,Giardinaggio,Centro
+F0085,Volt Service 085,Elettricista,Nord
+F0086,Scatola Solutions 086,Trasloco,Ovest
+F0087,Casa Solutions 087,Pulizie,Sud
+F0088,Splendor Service 088,Pulizie,Centro
+F0089,Tubi Group 089,Idraulica,Centro
+F0090,Pulito Express 090,Pulizie,Est
+F0091,Elettro Express 091,Elettricista,Sud
+F0092,Flora Express 092,Giardinaggio,SUD
+F0093,Volt Group 093,Elettricista,Centro
+F0094,Idro Service 094,Idraulica,Est
+F0095,Flora Pro 095,Giardinaggio,Est
+F0096,Casa Solutions 096,Pulizie,Sud
+F0097,Aqua Group 097,Idraulica,Centro
+F0098,Casa Service 098,Pulizie,Centro
+F0099,Trasporti Service 099,Trasloco,Est
+F0100,Lumen Express 100,Elettricista,Nord
+F0101,Tubi Team 101,Idraulica,Nord
+F0102,Volt Express 102,Elettricista,Centro
+F0103,Net Solutions 103,Assistenza IT,Ovest
+F0104,Casa Group 104,Pulizie,Centro
+F0105,Volt Team 105,Elettricista,Ovest
+F0106,Elettro Team 106,Elettricista,NORD
+F0107,Net Group 107,Assistenza IT,Sud
+F0108,Tubi Service 108,Idraulica,Nord
+F0109,Splendor Express 109,Pulizie,Est
+F0110,Aqua Group 110,Idraulica,Sud
+F0111,Net Service 111,Assistenza IT,Centro
+F0112,Tubi Service 112,Idraulica,Ovest
+F0113,Lumen Express 113,Elettricista,Est
+F0114,Splendor Pro 114,Pulizie,Centro
+F0115,Aqua Service 115,Idraulica,Sud
+F0116,Trasporti Solutions 116,Trasloco,OVEST
+F0117,Aqua Solutions 117,Idraulica,Nord
+F0118,Volt Pro 118,Elettricista,Centro
+F0119,Volt Service 119,Elettricista,Est
+F0120,Pulito Express 120,Pulizie,EST
+F0121,Lumen Group 121,Elettricista,Centro
+F0122,Tubi Service 122,Idraulica,Est
+F0123,Pulito Team 123,Pulizie,Est
+F0124,Casa Group 124,Pulizie,Sud
+F0125,Idro Team 125,Idraulica,Nord
+F0126,Tech Group 126,Assistenza IT,Centro
+F0127,Idro Pro 127,Idraulica,Est
+F0128,Pulito Express 128,pulizie,Centro
+F0129,Verde Team 129,Giardinaggio,Centro
+F0130,Tubi Service 130,Idraulica,Est
+F0131,Elettro Team 131,Elettricista,Ovest
+F0132,Byte Pro 132,Assistenza IT,Nord
+F0133,Volt Solutions 133,Elettricista,Nord
+F0134,Verde Pro 134,Giardinaggio,Centro
+F0135,Trasporti Solutions 135,Trasloco,Centro
+F0136,Casa Group 136,Pulizie,Ovest
+F0137,Scatola Team 137,Trasloco,Nord
+F0138,Aqua Group 138,Idraulica,Sud
+F0139,Volt Team 139,Elettricista,Est
+F0140,Elettro Service 140,Elettricista,Nord
+F0141,Byte Group 141,Assistenza IT,Centro
+F0142,Net Solutions 142,Assistenza IT,Est
+F0143,Casa Group 143,Pulizie,Centro
+F0144,Casa Group 144,Pulizie,NORD
+F0145,Scatola Pro 145,Trasloco,Centro
+F0146,Splendor Group 146,Pulizie,Nord
+F0147,Mover Pro 147,Trasloco,Ovest
+F0148,Net Solutions 148,Assistenza IT,Ovest
+F0149,Splendor Express 149,Pulizie,Sud
+F0150,Lumen Service 150,Elettricista,Centro
+F0151,Mover Team 151,Trasloco,Nord
+F0152,Trasporti Team 152,Trasloco,Ovest
+F0153,Scatola Pro 153,Trasloco,Sud
+F0154,Pulito Team 154,Pulizie,Sud
+F0155,Scatola Express 155,Trasloco,Nord
+F0156,Verde Team 156,Giardinaggio,Est
+F0157,Trasporti Pro 157,Trasloco,Ovest
+F0158,Net Group 158,Assistenza IT,Centro
+F0159,Tubi Express 159,Idraulica,Est
+F0160,Aqua Pro 160,Idraulica,Centro
+F0161,Elettro Pro 161,Elettricista,Nord
+F0162,Idro Team 162,Idraulica,Centro
+F0163,Tubi Group 163,Idraulica,Centro
+F0164,Aqua Solutions 164,Idraulica,Nord
+F0165,Pulito Pro 165,Pulizie,Centro
+F0166,Verde Group 166,Giardinaggio,EST
+F0167,Casa Group 167,Pulizie,Nord
+F0168,Splendor Group 168,Pulizie,Centro
+F0169,Volt Team 169,Elettricista,Centro
+F0170,Verde Team 170,Giardinaggio,Ovest
+F0171,Splendor Express 171,Pulizie,Centro
+F0172,Orto Solutions 172,Giardinaggio,Sud
+F0173,Idro Solutions 173,idraulica,Nord
+F0174,Lumen Express 174,Elettricista,Centro
+F0175,Pulito Group 175,Pulizie,Centro
+F0176,Tech Service 176,Assistenza IT,Centro
+F0177,Lumen Pro 177,Elettricista,Centro
+F0178,Idro Express 178,Idraulica,Centro
+F0179,Tech Service 179,Assistenza IT,Sud
+F0180,Splendor Service 180,Pulizie,Sud
+F0181,Idro Group 181,Idraulica,Ovest
+F0182,Verde Service 182,Giardinaggio,Sud
+F0183,Net Pro 183,Assistenza IT,Centro
+F0184,Casa Service 184,Pulizie,Centro
+F0185,Idro Pro 185,Idraulica,Est
+F0186,Orto Express 186,Giardinaggio,Nord
+F0187,Elettro Service 187,Elettricista,NORD
+F0188,Casa Express 188,Pulizie,Nord
+F0189,Tech Solutions 189,Assistenza IT,Est
+F0190,Scatola Pro 190,Trasloco,Ovest
+F0191,Volt Solutions 191,Elettricista,Sud
+F0192,Pulito Group 192,Pulizie,Ovest
+F0193,Splendor Service 193,Pulizie,CENTRO
+F0194,Casa Solutions 194,Pulizie,Nord
+F0195,Byte Group 195,Assistenza IT,Sud
+F0196,Casa Service 196,Pulizie,Sud
+F0197,Idro Group 197,Idraulica,Ovest
+F0198,Tubi Group 198,Idraulica,Centro
+F0199,Aqua Solutions 199,Idraulica,Sud
+F0200,Scatola Express 200,Trasloco,Centro
+F0201,Pulito Pro 201,Pulizie,Nord
+F0202,Flora Service 202,Giardinaggio,Sud
+F0203,Idro Service 203,Idraulica,Sud
+F0204,Elettro Solutions 204,Elettricista,Est
+F0205,Tubi Pro 205,Idraulica,Sud
+F0206,Byte Group 206,Assistenza IT,Sud
+F0207,Aqua Express 207,Idraulica,Centro
+F0208,Flora Team 208,giardinaggio,Centro
+F0209,Splendor Team 209,Pulizie,Centro
+F0210,Pulito Group 210,Pulizie,Est
+F0211,Pulito Solutions 211,Pulizie,SUD
+F0212,Aqua Group 212,Idraulica,Sud
+F0213,Casa Express 213,Pulizie,Nord
+F0214,Splendor Service 214,Pulizie,Ovest
+F0215,Net Express 215,Assistenza IT,Sud
+F0216,Byte Service 216,Assistenza IT,Ovest
+F0217,Casa Group 217,Pulizie,Ovest
+F0218,Byte Solutions 218,Assistenza IT,Ovest
+F0219,Pulito Service 219,Pulizie,Nord
+F0220,Trasporti Express 220,Trasloco,Centro
+F0221,Idro Group 221,Idraulica,Est
+F0222,Splendor Service 222,Pulizie,Est
+F0223,Splendor Team 223,Pulizie,Ovest
+F0224,Volt Service 224,Elettricista,Ovest
+F0225,Splendor Solutions 225,Pulizie,Nord
+F0226,Orto Express 226,Giardinaggio,Nord
+F0227,Scatola Express 227,Trasloco,Nord
+F0228,Idro Express 228,Idraulica,Nord
+F0229,Verde Group 229,Giardinaggio,Centro
+F0230,Net Team 230,Assistenza IT,Ovest
+F0231,Splendor Team 231,Pulizie,Centro
+F0232,Orto Group 232,Giardinaggio,Nord
+F0233,Pulito Service 233,Pulizie,Centro
+F0234,Verde Express 234,Giardinaggio,Nord
+F0235,Splendor Express 235,Pulizie,Centro
+F0236,Casa Service 236,Pulizie,Nord
+F0237,Casa Group 237,pulizie,Est
+F0238,Splendor Solutions 238,Pulizie,Nord
+F0239,Net Service 239,Assistenza IT,Est
+F0240,Flora Pro 240,Giardinaggio,Centro
+F0241,Orto Solutions 241,Giardinaggio,Nord
+F0242,Tech Solutions 242,Assistenza IT,Centro
+F0243,Idro Solutions 243,Idraulica,Nord
+F0244,Aqua Group 244,Idraulica,Nord
+F0245,Net Team 245,Assistenza IT,Centro
+F0246,Lumen Solutions 246,Elettricista,Sud
+F0247,Scatola Solutions 247,Trasloco,Nord
+F0248,Scatola Solutions 248,Trasloco,Nord
+F0249,Scatola Solutions 249,Trasloco,Sud
+F0250,Byte Service 250,Assistenza IT,Nord
+F0251,Net Team 251,Assistenza IT,Ovest
+F0252,Flora Solutions 252,Giardinaggio,Ovest
+F0253,Casa Solutions 253,Pulizie,Sud
+F0254,Tech Pro 254,Assistenza IT,Centro
+F0255,Flora Express 255,Giardinaggio,Nord
+F0256,Aqua Express 256,Idraulica,Est
+F0257,Lumen Pro 257,Elettricista,Sud
+F0258,Orto Team 258,Giardinaggio,Centro
+F0259,Aqua Solutions 259,Idraulica,EST
+F0260,Elettro Service 260,Elettricista,Sud
+F0261,Volt Service 261,Elettricista,Sud
+F0262,Casa Express 262,Pulizie,Nord
+F0263,Byte Team 263,Assistenza IT,Centro
+F0264,Verde Pro 264,Giardinaggio,Est
+F0265,Splendor Team 265,Pulizie,Est
+F0266,Aqua Solutions 266,Idraulica,Est
+F0267,Lumen Team 267,Elettricista,Nord
+F0268,Lumen Group 268,Elettricista,Ovest
+F0269,Volt Service 269,Elettricista,Est
+F0270,Net Team 270,Assistenza IT,Centro
+F0271,Splendor Service 271,Pulizie,Est
+F0272,Lumen Team 272,Elettricista,Nord
+F0273,Casa Team 273,Pulizie,Centro
+F0274,Scatola Service 274,Trasloco,NORD
+F0275,Aqua Team 275,Idraulica,EST
+F0276,Pulito Pro 276,Pulizie,Ovest
+F0277,Pulito Service 277,Pulizie,Nord
+F0278,Flora Solutions 278,Giardinaggio,Est
+F0279,Scatola Pro 279,Trasloco,Sud
+F0280,Mover Express 280,Trasloco,Centro
+F0281,Flora Solutions 281,Giardinaggio,Sud
+F0282,Net Express 282,Assistenza IT,Ovest
+F0283,Volt Team 283,Elettricista,Sud
+F0284,Aqua Solutions 284,Idraulica,Sud
+F0285,Net Group 285,Assistenza IT,Nord
+F0286,Casa Solutions 286,Pulizie,Est
+F0287,Orto Express 287,Giardinaggio,Nord
+F0288,Scatola Express 288,Trasloco,Nord
+F0289,Verde Solutions 289,Giardinaggio,Centro
+F0290,Idro Express 290,Idraulica,Sud
+F0291,Tubi Pro 291,Idraulica,Sud
+F0292,Flora Group 292,Giardinaggio,Ovest
+F0293,Orto Pro 293,Giardinaggio,Est
+F0294,Tech Solutions 294,Assistenza IT,Sud
+F0295,Tech Solutions 295,Assistenza IT,Sud
+F0296,Casa Group 296,Pulizie,Ovest
+F0297,Orto Express 297,Giardinaggio,Nord
+F0298,Lumen Team 298,Elettricista,Nord
+F0299,Tech Team 299,Assistenza IT,Ovest
+F0300,Flora Team 300,Giardinaggio,Est

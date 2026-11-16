@@ -1,0 +1,351 @@
+operatore_id,zona,tipo_attivita
+O0001,Est,Ispezione
+O0002,Sud,Consegna e montaggio
+O0003,Centro,Consegna e montaggio
+O0004,Centro,Consulenza da remoto
+O0005,Sud,Ispezione
+O0006,Centro,Intervento a domicilio
+O0007,Sud,Consegna e montaggio
+O0008,Ovest,Consegna e montaggio
+O0009,Nord,Ispezione
+O0010,Centro,Ispezione
+O0011,Nord,Consulenza da remoto
+O0012,Nord,Consulenza da remoto
+O0013,Ovest,Intervento a domicilio
+O0014,Nord,Ispezione
+O0015,Ovest,Intervento a domicilio
+O0016,Ovest,Consulenza da remoto
+O0017,Nord,Consulenza da remoto
+O0018,Sud,Consegna e montaggio
+O0019,Est,Consulenza da remoto
+O0020,Centro,Ispezione
+O0021,Sud,Intervento a domicilio
+O0022,Centro,Intervento a domicilio
+O0023,Ovest,Consulenza da remoto
+O0024,Est,Intervento a domicilio
+O0025,Centro,Consulenza da remoto
+O0026,Sud,Consulenza da remoto
+O0027,Centro,Intervento a domicilio
+O0028,Centro,Consegna e montaggio
+O0029,Centro,Consulenza da remoto
+O0030,Centro,Ispezione
+O0031,Centro,Intervento a domicilio
+O0032,Sud,Intervento a domicilio
+O0033,Centro,Ispezione
+O0034,Sud,Consegna e montaggio
+O0035,Centro,Consulenza da remoto
+O0036,Centro,Consegna e montaggio
+O0037,Sud,Intervento a domicilio
+O0038,Sud,Consegna e montaggio
+O0039,Ovest,Consulenza da remoto
+O0040,Nord,Ispezione
+O0041,Centro,Consulenza da remoto
+O0042,Nord,Consegna e montaggio
+O0043,Centro,Ispezione
+O0044,Nord,Intervento a domicilio
+O0045,Nord,Consulenza da remoto
+O0046,Est,Consulenza da remoto
+O0047,Nord,Consegna e montaggio
+O0048,Nord,Ispezione
+O0049,Centro,Ispezione
+O0050,Est,Intervento a domicilio
+O0051,Sud,Ispezione
+O0052,Ovest,Intervento a domicilio
+O0053,Ovest,Consegna e montaggio
+O0054,Sud,Consegna e montaggio
+O0055,Ovest,Ispezione
+O0056,Ovest,Ispezione
+O0057,Sud,Consulenza da remoto
+O0058,Nord,Consulenza da remoto
+O0059,Est,Consegna e montaggio
+O0060,Centro,Ispezione
+O0061,Sud,Consegna e montaggio
+O0062,Centro,Consulenza da remoto
+O0063,Centro,Intervento a domicilio
+O0064,Est,Ispezione
+O0065,Nord,Intervento a domicilio
+O0066,Nord,Consulenza da remoto
+O0067,Est,Consulenza da remoto
+O0068,Nord,Consegna e montaggio
+O0069,Nord,Consulenza da remoto
+O0070,Ovest,Consegna e montaggio
+O0071,nord,Consegna e montaggio
+O0072,Centro,Consegna e montaggio
+O0073,Nord,Consegna e montaggio
+O0074,Est,Intervento a domicilio
+O0075,Est,Ispezione
+O0076,Ovest,Consegna e montaggio
+O0077,Nord,Intervento a domicilio
+O0078,Centro,Intervento a domicilio
+O0079,Nord,Ispezione
+O0080,Ovest,Intervento a domicilio
+O0081,Centro,Intervento a domicilio
+O0082,Centro,Consegna e montaggio
+O0083,Nord,Consegna e montaggio
+O0084,Nord,Consulenza da remoto
+O0085,Centro,Consegna e montaggio
+O0086,Sud,Consegna e montaggio
+O0087,Est,Consegna e montaggio
+O0088,Sud,Consulenza da remoto
+O0089,Ovest,Ispezione
+O0090,Nord,Consegna e montaggio
+O0091,Est,Consulenza da remoto
+O0092,Centro,Intervento a domicilio
+O0093,Centro,Consegna e montaggio
+O0094,Ovest,Consegna e montaggio
+O0095,est,Consulenza da remoto
+O0096,Nord,Ispezione
+O0097,Nord,Consulenza da remoto
+O0098,Centro,Intervento a domicilio
+O0099,Nord,Consegna e montaggio
+O0100,Ovest,Intervento a domicilio
+O0101,nord,Intervento a domicilio
+O0102,Nord,Intervento a domicilio
+O0103,Est,Intervento a domicilio
+O0104,Nord,Intervento a domicilio
+O0105,Sud,Consulenza da remoto
+O0106,Est,Intervento a domicilio
+O0107,Nord,Ispezione
+O0108,Nord,Ispezione
+O0109,Est,Ispezione
+O0110,Nord,Consulenza da remoto
+O0111,Centro,Consulenza da remoto
+O0112,Sud,Ispezione
+O0113,Nord,Consulenza da remoto
+O0114,Ovest,Consegna e montaggio
+O0115,Est,Intervento a domicilio
+O0116,Centro,Consegna e montaggio
+O0117,Centro,Ispezione
+O0118,Ovest,Consegna e montaggio
+O0119,Nord,Consegna e montaggio
+O0120,Nord,Consegna e montaggio
+O0121,Nord,Consulenza da remoto
+O0122,Sud,Consulenza da remoto
+O0123,Centro,Intervento a domicilio
+O0124,Est,Consegna e montaggio
+O0125,Est,Consulenza da remoto
+O0126,Sud,Ispezione
+O0127,Nord,Intervento a domicilio
+O0128,Centro,Ispezione
+O0129,Nord,Consulenza da remoto
+O0130,Nord,Consegna e montaggio
+O0131,Ovest,Intervento a domicilio
+O0132,centro,Consulenza da remoto
+O0133,Centro,Consulenza da remoto
+O0134,Est,Ispezione
+O0135,Sud,Intervento a domicilio
+O0136,Nord,Consulenza da remoto
+O0137,Centro,Intervento a domicilio
+O0138,Centro,Consegna e montaggio
+O0139,Centro,Consulenza da remoto
+O0140,Sud,Consulenza da remoto
+O0141,Est,Ispezione
+O0142,Sud,Ispezione
+O0143,Sud,Ispezione
+O0144,Est,Consegna e montaggio
+O0145,Est,Consegna e montaggio
+O0146,Centro,Ispezione
+O0147,Centro,Ispezione
+O0148,Sud,Intervento a domicilio
+O0149,Est,Consulenza da remoto
+O0150,Centro,Intervento a domicilio
+O0151,Sud,Consegna e montaggio
+O0152,Sud,Consulenza da remoto
+O0153,sud,Consegna e montaggio
+O0154,Est,Consulenza da remoto
+O0155,Est,Ispezione
+O0156,Nord,Consegna e montaggio
+O0157,Centro,Consegna e montaggio
+O0158,Est,Ispezione
+O0159,Nord,Consegna e montaggio
+O0160,Nord,Intervento a domicilio
+O0161,Est,Intervento a domicilio
+O0162,Centro,Intervento a domicilio
+O0163,Centro,Consegna e montaggio
+O0164,Nord,Consulenza da remoto
+O0165,Nord,Consulenza da remoto
+O0166,Nord,Consegna e montaggio
+O0167,Sud,Consegna e montaggio
+O0168,Ovest,Intervento a domicilio
+O0169,Nord,Consegna e montaggio
+O0170,Nord,Ispezione
+O0171,est,Ispezione
+O0172,Nord,Consegna e montaggio
+O0173,Centro,Consulenza da remoto
+O0174,Nord,Intervento a domicilio
+O0175,Est,Consulenza da remoto
+O0176,Nord,Ispezione
+O0177,Centro,Ispezione
+O0178,Centro,Intervento a domicilio
+O0179,Sud,Consegna e montaggio
+O0180,Est,Consulenza da remoto
+O0181,Centro,Consulenza da remoto
+O0182,Sud,Intervento a domicilio
+O0183,Ovest,Intervento a domicilio
+O0184,Nord,Consegna e montaggio
+O0185,Sud,Consegna e montaggio
+O0186,Nord,Intervento a domicilio
+O0187,Ovest,Intervento a domicilio
+O0188,Est,Consegna e montaggio
+O0189,Ovest,Ispezione
+O0190,Est,Intervento a domicilio
+O0191,Centro,Intervento a domicilio
+O0192,Nord,Consegna e montaggio
+O0193,Sud,Intervento a domicilio
+O0194,Ovest,Ispezione
+O0195,Centro,Intervento a domicilio
+O0196,Nord,Ispezione
+O0197,Nord,Consulenza da remoto
+O0198,Est,Consegna e montaggio
+O0199,Centro,Ispezione
+O0200,Nord,Consulenza da remoto
+O0201,Est,Consegna e montaggio
+O0202,Ovest,Ispezione
+O0203,Sud,Consulenza da remoto
+O0204,Centro,Intervento a domicilio
+O0205,Est,Ispezione
+O0206,Nord,Consegna e montaggio
+O0207,Nord,Intervento a domicilio
+O0208,Sud,Consegna e montaggio
+O0209,Centro,Ispezione
+O0210,Nord,Ispezione
+O0211,Centro,Consegna e montaggio
+O0212,Est,Ispezione
+O0213,Est,Consegna e montaggio
+O0214,Est,Consegna e montaggio
+O0215,Nord,Ispezione
+O0216,Centro,Intervento a domicilio
+O0217,Nord,Consulenza da remoto
+O0218,Sud,Consulenza da remoto
+O0219,Ovest,Ispezione
+O0220,Sud,Intervento a domicilio
+O0221,Nord,Ispezione
+O0222,Est,Ispezione
+O0223,Nord,Intervento a domicilio
+O0224,Nord,Consegna e montaggio
+O0225,Est,Consegna e montaggio
+O0226,Nord,Intervento a domicilio
+O0227,Sud,Intervento a domicilio
+O0228,Est,Ispezione
+O0229,Centro,Intervento a domicilio
+O0230,Sud,Consegna e montaggio
+O0231,Centro,Consulenza da remoto
+O0232,Est,Consulenza da remoto
+O0233,Ovest,Consulenza da remoto
+O0234,Nord,Ispezione
+O0235,sud,Consulenza da remoto
+O0236,Nord,Consegna e montaggio
+O0237,Sud,Ispezione
+O0238,Est,Intervento a domicilio
+O0239,Sud,Consulenza da remoto
+O0240,Ovest,Consegna e montaggio
+O0241,Est,Consulenza da remoto
+O0242,Est,Consulenza da remoto
+O0243,Sud,Consegna e montaggio
+O0244,Sud,Consegna e montaggio
+O0245,Centro,Ispezione
+O0246,Est,Consegna e montaggio
+O0247,Centro,Consulenza da remoto
+O0248,Sud,Consulenza da remoto
+O0249,Est,Consulenza da remoto
+O0250,Centro,Ispezione
+O0251,Sud,Consegna e montaggio
+O0252,Centro,Consulenza da remoto
+O0253,Sud,Ispezione
+O0254,Centro,Consegna e montaggio
+O0255,Sud,Consulenza da remoto
+O0256,Est,Consulenza da remoto
+O0257,Ovest,Intervento a domicilio
+O0258,Centro,Consegna e montaggio
+O0259,Centro,Consulenza da remoto
+O0260,Est,Ispezione
+O0261,Centro,Intervento a domicilio
+O0262,Centro,Consegna e montaggio
+O0263,Ovest,Consulenza da remoto
+O0264,Ovest,Consulenza da remoto
+O0265,Nord,Consulenza da remoto
+O0266,Ovest,Consegna e montaggio
+O0267,Nord,Consegna e montaggio
+O0268,Est,Consegna e montaggio
+O0269,Est,Ispezione
+O0270,Ovest,Intervento a domicilio
+O0271,Nord,Consulenza da remoto
+O0272,Ovest,Ispezione
+O0273,Nord,Intervento a domicilio
+O0274,Est,Consegna e montaggio
+O0275,Centro,Ispezione
+O0276,Centro,Consegna e montaggio
+O0277,Nord,Intervento a domicilio
+O0278,Nord,Consulenza da remoto
+O0279,Est,Consegna e montaggio
+O0280,Est,Consulenza da remoto
+O0281,Sud,Intervento a domicilio
+O0282,Est,Ispezione
+O0283,Sud,Intervento a domicilio
+O0284,Nord,Consulenza da remoto
+O0285,Sud,Ispezione
+O0286,Est,Consulenza da remoto
+O0287,Est,Ispezione
+O0288,Est,Consegna e montaggio
+O0289,Ovest,Consegna e montaggio
+O0290,Sud,Ispezione
+O0291,Nord,Intervento a domicilio
+O0292,Nord,Ispezione
+O0293,Ovest,Consulenza da remoto
+O0294,Centro,Consulenza da remoto
+O0295,Est,Consulenza da remoto
+O0296,Sud,Consegna e montaggio
+O0297,Centro,Consulenza da remoto
+O0298,Centro,Consulenza da remoto
+O0299,Nord,Consegna e montaggio
+O0300,Sud,Consulenza da remoto
+O0301,Est,Consegna e montaggio
+O0302,Sud,Consulenza da remoto
+O0303,Nord,Intervento a domicilio
+O0304,Est,Consulenza da remoto
+O0305,Sud,Consulenza da remoto
+O0306,Est,Ispezione
+O0307,Ovest,Consegna e montaggio
+O0308,Est,Ispezione
+O0309,Est,Consegna e montaggio
+O0310,Est,Ispezione
+O0311,Sud,Consegna e montaggio
+O0312,Ovest,Ispezione
+O0313,Centro,Intervento a domicilio
+O0314,Ovest,Ispezione
+O0315,Nord,Ispezione
+O0316,Nord,Ispezione
+O0317,Ovest,Consegna e montaggio
+O0318,Sud,Consulenza da remoto
+O0319,Est,Consegna e montaggio
+O0320,Nord,Consulenza da remoto
+O0321,Est,Consegna e montaggio
+O0322,sud,Consulenza da remoto
+O0323,Sud,Consegna e montaggio
+O0324,Ovest,Ispezione
+O0325,Centro,Consegna e montaggio
+O0326,Nord,Consegna e montaggio
+O0327,Centro,Consegna e montaggio
+O0328,Sud,Consegna e montaggio
+O0329,Sud,Consegna e montaggio
+O0330,Est,Intervento a domicilio
+O0331,Est,Consulenza da remoto
+O0332,sud,Ispezione
+O0333,Nord,Ispezione
+O0334,Nord,Consegna e montaggio
+O0335,Est,Consegna e montaggio
+O0336,Est,Intervento a domicilio
+O0337,Est,Ispezione
+O0338,Centro,Ispezione
+O0339,est,Intervento a domicilio
+O0340,Centro,Consegna e montaggio
+O0341,Est,Consegna e montaggio
+O0342,Nord,Consulenza da remoto
+O0343,Sud,Intervento a domicilio
+O0344,Est,Ispezione
+O0345,centro,Intervento a domicilio
+O0346,Est,Intervento a domicilio
+O0347,Centro,Consulenza da remoto
+O0348,Nord,Ispezione
+O0349,Centro,Consegna e montaggio
+O0350,Nord,Consulenza da remoto

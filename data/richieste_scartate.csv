@@ -1,0 +1,2 @@
+richiesta_id,cliente_id,fornitore_id,operatore_id,data_ora,importo,tempo_erogazione_min,stato
+R99999,C9999,F0264,O0075,2025-06-15 10:00:00,80.0,60.0,completata
